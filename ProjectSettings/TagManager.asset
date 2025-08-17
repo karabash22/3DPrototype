@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coin
   - Barrel
+  - Obstacle
   layers:
   - Default
   - TransparentFX
